@@ -1,0 +1,13 @@
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\bin\Debug\ActivityMonitor.exe.config
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\bin\Debug\ActivityMonitor.exe
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\bin\Debug\ActivityMonitor.pdb
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\ActivityMonitor.csprojResolveAssemblyReference.cache
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\MainWindow.baml
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\MainWindow.g.cs
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\App.g.cs
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\ActivityMonitor_MarkupCompile.cache
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\ActivityMonitor.g.resources
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\ActivityMonitor.Properties.Resources.resources
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\ActivityMonitor.csproj.GenerateResource.Cache
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\ActivityMonitor.exe
+c:\users\mahfuz\documents\visual studio 2012\Projects\ActivityMonitor\ActivityMonitor\obj\Debug\ActivityMonitor.pdb
